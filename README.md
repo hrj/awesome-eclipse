@@ -23,6 +23,6 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 (TODO)
 
 ## Contributing
-Submit a PR to add links to plugins or resources related to Eclipse.
+Submit a PR, or just raise an issue, to add your favourite plugins or resources.
 
 This work is distributed under the [CC0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
