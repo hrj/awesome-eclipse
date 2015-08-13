@@ -1,4 +1,4 @@
-# awesome-eclipse
+# awesome-eclipse [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 List of awesome plugins and other resources for the [Eclipse IDE](https://eclipse.org/)
 
