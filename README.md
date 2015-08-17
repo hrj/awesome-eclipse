@@ -18,6 +18,7 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 ### Language support
 * [Scala](http://scala-ide.org/)
 * [Kotlin](https://github.com/JetBrains/kotlin-eclipse/)
+* [Markdown](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 
 ## Closed-source plugins
 (TODO)
