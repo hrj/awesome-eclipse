@@ -9,6 +9,7 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [Indent Guide](http://sschaef.github.io/IndentGuide/) : A visual guide based on indent level
 * [Font-size](https://code.google.com/p/eclipse-fonts/) : Easily control font size
 * [Quick Search](https://spring.io/blog/2013/07/11/eclipse-quick-search) : Simple search, almost instant results that update as you type
+* [AnyEditTools](https://github.com/iloveeclipse/anyedittools) : More customization for text-based editors
 
 ### Collaboration
 * [Saros](http://www.saros-project.org/) : Edit collaboratively over XMPP
