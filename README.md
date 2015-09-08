@@ -21,6 +21,8 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [Scala](http://scala-ide.org/)
 * [Kotlin](https://github.com/JetBrains/kotlin-eclipse/)
 * [Markdown](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
+* [Clojure](https://github.com/laurentpetit/ccw)
+* [Xtend](https://www.eclipse.org/xtend/)
 
 ## Closed-source plugins
 (TODO)
