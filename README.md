@@ -23,6 +23,7 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 * [Markdown](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
 * [Clojure](https://github.com/laurentpetit/ccw)
 * [Xtend](https://www.eclipse.org/xtend/)
+* [Rust](https://github.com/RustDT/RustDT)
 
 ## Closed-source plugins
 (TODO)
