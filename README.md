@@ -6,6 +6,7 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 
 ### General Purpose
 * [Vrapper](https://github.com/vrapper/vrapper) : Thorough Vim emulation inside Eclipse editors
+* [Relative number ruler](https://github.com/matf/relativenumberruler). Especially useful for and works with Vrapper.
 * [Indent Guide](http://sschaef.github.io/IndentGuide/) : A visual guide based on indent level
 * [Font-size](https://code.google.com/p/eclipse-fonts/) : Easily control font size
 * [Quick Search](https://spring.io/blog/2013/07/11/eclipse-quick-search) : Simple search, almost instant results that update as you type. Note, the update site location has changed. New location is listed [here](https://spring.io/tools/sts/all).
