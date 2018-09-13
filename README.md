@@ -17,6 +17,7 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 
 ### Visualisation tools
 * [KlassViz](https://github.com/OpenKieler/klassviz): Class visualisation
+* [JDT Codemining](https://github.com/angelozerr/jdt-codemining)
 
 ### Language support
 * [Scala](http://scala-ide.org/)
