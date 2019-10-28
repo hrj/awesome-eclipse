@@ -18,6 +18,8 @@ List of awesome plugins and other resources for the [Eclipse IDE](https://eclips
 ### Visualisation tools
 * [KlassViz](https://github.com/OpenKieler/klassviz): Class visualisation
 * [JDT Codemining](https://github.com/angelozerr/jdt-codemining)
+* [jGRASP](https://www.jgrasp.org/index.html) - Created to provide software visualizations that work in conjunction with the debugger such as [Control Structure Diagrams](https://www.jgrasp.org/csd.html), [UML Class Diagrams](https://www.jgrasp.org/uml.html) and [Object Viewer](https://www.jgrasp.org/viewers.html)
+
 
 ### Language support
 * [Scala](http://scala-ide.org/)
